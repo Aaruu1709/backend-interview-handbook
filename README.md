@@ -1,5 +1,4 @@
 # backend-interview-handbook
-Complete backend interview preparation repository with Java, Spring Boot, Microservices, Security, SQL, System Design, and interview-ready explanations.
 ---
 
 **hidden Spring/JPA internal interview questions
